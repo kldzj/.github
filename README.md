@@ -2,14 +2,14 @@
 
 Welcome to my GitHub! I'm a software developer dedicated to building tools that empower developers. Check out my projects, and let's build something great together!
 
-## 🌟 Introducing staarter.dev - Your NextJS SaaS Launchpad
-
 <a href="https://staarter.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./staarter_dark.png">
-    <img alt="staarter.dev" src="./staarter.png" width="35%">
+    <img alt="staarter.dev" src="./staarter.png" width="40%">
   </picture>
 </a>
+
+## 🌟 Introducing staarter.dev - Your NextJS SaaS Launchpad
 
 staarter.dev is a premium NextJS boilerplate designed for developers looking to streamline their SaaS application development. It integrates a comprehensive tech stack to provide a robust and scalable foundation.
 
