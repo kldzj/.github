@@ -3,7 +3,6 @@
 Welcome to my GitHub! I'm a software developer dedicated to building tools that empower developers. Check out my projects, and let's build something great together!
 
 <br />
-<br />
 
 <a href="https://staarter.dev">
   <picture>
